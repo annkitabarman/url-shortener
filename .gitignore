@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment variables
+.env
+.env.*
+
+# Frontend dependencies and builds
+node_modules/
+dist/
+.next/
+
+# Local database
+*.db
+
+# Editor
+.vscode/
